@@ -21,3 +21,4 @@ yarn-debug.log*
 yarn-error.log*
 
 src/hoc/Aux.js
+src/hoc/Auxiliary/Aux.js
